@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30%;
+}
+@media (max-width:680px) {
+    nav{
+        flex-direction: column;
+    }
+        
+}

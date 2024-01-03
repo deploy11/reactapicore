@@ -1,0 +1,13 @@
+.card{
+    width: 200px;
+    background: black;
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+.card p{
+    font-size: 20px;
+}
+.card h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
